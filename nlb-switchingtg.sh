@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# ============================= #
+# Copyright © 2017 kohei YAMADA
+# ============================= #
+
 _region=ap-northeast-1
 
 #listner_arn

@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# ============================= #
+# Copyright © 2017 kohei YAMADA
+# ============================= #
+
 _script_path=./
 
 case $1 in

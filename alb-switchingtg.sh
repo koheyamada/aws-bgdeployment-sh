@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# ============================= #
+# Copyright © 2017 kohei YAMADA
+# ============================= #
+
+
 # Region Name
 _region=ap-northeast-1
 
